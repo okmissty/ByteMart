@@ -1,0 +1,5 @@
+all:
+	g++ -o bytemart main.cpp Product.cpp Keyboard.cpp Monitor.cpp Mouse.cpp SSD.cpp GPU.cpp USBHub.cpp ShoppingCart.cpp
+
+clean:
+	rm -f *.o bytemart
