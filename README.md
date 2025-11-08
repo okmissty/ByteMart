@@ -1,4 +1,3 @@
-# cmsc240-lab-8-retro-online-shop
 ## ByteMart Tech Hardware Store
 
 ### Tyeon Ford 
@@ -343,12 +342,4 @@ Main Menu
 
 **Friend Function**
 ShoppingCart class has friend function printReceipt which accesses private member items to print the receipt
-
-
-## Resources Used
-
-- ChatGPT: https://chatgpt.com/share/690514ad-e554-8008-aa96-bdcddd4871b2
-
-- Used for general questions and making up data
-- I wanted to go with something more fun but I built this with interview season in mind to use as a project for later so I spent a lot of extra time going into detail!
 
