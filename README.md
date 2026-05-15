@@ -8,7 +8,7 @@ UI Added 5/15/26
 ByteMart is a console-based tech hardware store that allows users to browse, purchase, and manage a shopping cart of various computer components and peripherals. The store features 13 different tech products across 6 categories: keyboards, monitors, mice, SSDs, GPUs, and USB hubs. Users can add items to their cart, remove items, view detailed product specifications, and checkout with an itemized receipt.
 
 
-New updated UI
+New updated UI: [ByteMart](https://pulp-bleak-11552695.figma.site/) 
 <img width="1444" height="1012" alt="image" src="https://github.com/user-attachments/assets/ce6eef2a-01ef-405b-88ff-9746369296ab" />
 
 
